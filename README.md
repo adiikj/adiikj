@@ -12,7 +12,8 @@ Currently @ **NZeroC AI**, building Edge AI infrastructure.
 
 ```yaml
 building:
-  - TradeXcel
+  - Mocket
+  - Argus
   - Nizen
 
 exploring:
@@ -22,7 +23,7 @@ exploring:
 
 interests:
   - Infrastructure
-  - Developer Tools
+  - UI/UX
   - Cybersecurity
 
 ```
